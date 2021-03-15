@@ -1,0 +1,1 @@
+git clone https://github.com/paullinuxthemer/Mc-OS-themes.git ~/.themes
