@@ -1,0 +1,10 @@
+<application>
+  <component name="StudioFlags">
+    <option name="data">
+      <map>
+        <entry key="rundebug.deltainstall" value="false" />
+        <entry key="rundebug.run.on.multiple.devices.action.enabled" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

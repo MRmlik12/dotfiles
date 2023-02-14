@@ -1,5 +1,17 @@
 {
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "vscode-icons",
-    "python.languageServer": "Pylance"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Palenight",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "redhat.telemetry.enabled": false,
+    "githubPullRequests.terminalLinksHandler": "github",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "svelte.enable-ts-plugin": true,
+    "files.exclude": {
+        ".git": true,
+        "**/.git": false
+    },
+    "cmake.configureOnOpen": true,
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }

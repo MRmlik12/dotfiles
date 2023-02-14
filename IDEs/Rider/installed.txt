@@ -1,0 +1,8 @@
+com.intellij.resharper.HeapAllocationsViewer
+com.jetbrains.rider.android
+idea.plugin.protoeditor
+String Manipulation
+com.wakatime.intellij.plugin
+com.chrisrm.idea.MaterialThemeUI
+com.intellij.grpc
+com.mallowigi

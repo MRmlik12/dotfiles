@@ -1,0 +1,4 @@
+com.wakatime.intellij.plugin
+com.mallowigi
+com.chrisrm.idea.MaterialThemeUI
+org.jetbrains.settingsRepository
